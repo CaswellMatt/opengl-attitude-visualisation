@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgl-renderer.a  CMakeFiles/gl-renderer.dir/GLMathematics.cpp.o CMakeFiles/gl-renderer.dir/IndexBuffer.cpp.o CMakeFiles/gl-renderer.dir/Renderable.cpp.o CMakeFiles/gl-renderer.dir/Renderer.cpp.o CMakeFiles/gl-renderer.dir/Shader.cpp.o CMakeFiles/gl-renderer.dir/Texture.cpp.o CMakeFiles/gl-renderer.dir/VertexArray.cpp.o CMakeFiles/gl-renderer.dir/VertexBuffer.cpp.o
+/usr/bin/ranlib libgl-renderer.a

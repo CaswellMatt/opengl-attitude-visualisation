@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgl-renderables.a  CMakeFiles/gl-renderables.dir/Cube.cpp.o CMakeFiles/gl-renderables.dir/Cylinder.cpp.o CMakeFiles/gl-renderables.dir/Grid.cpp.o CMakeFiles/gl-renderables.dir/Orientation.cpp.o CMakeFiles/gl-renderables.dir/RenderableData.cpp.o
+/usr/bin/ranlib libgl-renderables.a
